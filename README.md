@@ -6,4 +6,13 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rybaspb&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+# Contacts
+<div align="left">
+  <a href="https://t.me/iryba" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
